@@ -1,0 +1,3 @@
+# bundles are written to ~/.cache/reel by default
+.DS_Store
+*.log
